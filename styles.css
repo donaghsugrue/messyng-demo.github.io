@@ -5,7 +5,8 @@ html, body {
 }
 
 .logo {
-
+  display: block;
+  float: left;
 }
 
 
@@ -24,6 +25,7 @@ header {
 .HeaderOptions:hover {
   background-color: white;
   color:black;
+  float: right;
 }
 
 .HeaderNavTwo {
@@ -192,7 +194,7 @@ table{
 
 
 #FlashBox {
-
+  float: right;
 }
 
 
@@ -204,7 +206,7 @@ table{
 
 
 #Photos {
-
+  float: right;
 }
 
 .Top9 {
@@ -215,7 +217,7 @@ table{
 
 
 #Wall {
-
+  float: right;
 }
 
 
