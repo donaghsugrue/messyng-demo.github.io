@@ -62,7 +62,7 @@ main {
 
 .MainNav {
   font-weight: bold;
-  background-image: url("media/page-cover-nav-bar.png");
+  background-image: url("media/page_cover_nav_bar.png");
 }
 
 
@@ -163,7 +163,7 @@ table{
   background-color: black;
   width: 40%;
 
-  /*url("media/Section-cover-nav-bar.png");*/
+  /*url("media/Section_cover_nav_bar.png");*/
 }
 
 
@@ -171,7 +171,7 @@ table{
 #About {
   color:white;
   align:center;
-  background-image: url("media/bebo-cover-photo.png");
+  background-image: url("media/bebo_cover_photo.png");
   object-fit: cover;
 }
 
