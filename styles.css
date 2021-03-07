@@ -6,7 +6,7 @@ html, body {
 
 .logo {
   display: block;
-  float: left;
+
 }
 
 
@@ -20,6 +20,7 @@ header {
 
 .HeaderNav {
   float: center;
+  margin:auto;
 }
 
 .HeaderOptions:hover {
@@ -233,3 +234,11 @@ model-viewer {
 }
 
 
+#Blog {
+
+}
+
+
+#Quiz {
+
+}
