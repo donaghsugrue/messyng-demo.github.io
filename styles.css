@@ -98,9 +98,9 @@ a:active {
 
 
 q {
-  float: right; 
-  font-family: Georgia;
-  color: silver ;
+  text-align:right; 
+  font-family:Georgia;
+  color:silver ;
 }
 
 h1 {
