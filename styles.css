@@ -1,0 +1,235 @@
+html, body {
+  font-family: Arial;
+  padding:0;
+  margin:0;
+}
+
+.logo {
+  display: block;
+  float: left;
+}
+
+
+
+header {
+  background-image: linear-gradient(black, black, silver);
+  color:white;
+  background-size: 100%;
+  background-size:cover;
+}
+
+.HeaderNav {
+  float: center;
+}
+
+.HeaderOptions:hover {
+  background-color: white;
+  color:black;
+  float: right;
+}
+
+.HeaderNavTwo {
+  float: center;
+}
+
+
+
+footer {
+  text-align: center;
+  background-image: linear-gradient(silver, black, black);
+  color:white;
+  background-size: 100%;
+  background-size:cover;
+}
+
+.FooterNav {
+  float: center;
+}
+
+.FooterOptions:hover {
+  background-color: white;
+  color:black;
+}
+
+
+
+main {
+  width:80%;
+  margin: auto;
+  background-size: 100%;
+
+}
+
+.MainNav {
+  font-weight: bold;
+  background-image: url("media/page_cover_nav_bar.png");
+}
+
+
+
+
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+q {
+  float: right; 
+  font-family: Georgia;
+  color: silver ;
+}
+
+h1 {
+  font-family: Georgia;
+  size: 2em;
+}
+
+h2 {
+  size: 1.2em;
+}
+
+h3 {
+  size: 1.1em;
+}
+
+h4 {
+  size: 1.1em;
+}
+
+h5 {
+  size: 0.8em;
+}
+
+small {
+  size: 0.3em;
+}
+
+img {
+
+}
+
+
+
+#advert {
+  border: solid black 2px;
+  width:100%;
+  object-fit: cover;
+}
+
+
+
+.PageIdentifier {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+table{
+  align-items: center;
+}
+
+
+
+
+
+
+.Component{
+  color:white;
+  background-color: black;
+  width: 40%;
+
+  /*url("media/Section_cover_nav_bar.png");*/
+}
+
+
+
+#About {
+  color:white;
+  align:center;
+  background-image: url("media/bebo_cover_photo.png");
+  object-fit: cover;
+}
+
+
+
+#top16 {
+  border-color: silver;
+  width: 100px;
+  height: 100px;
+  font-size: 0.8em;
+  align-items: center;
+  text-align: center;
+}
+
+.Top16{
+  width: 80px;
+  height: 80px;
+}
+
+
+
+#FlashBox {
+
+}
+
+
+
+#WhiteBoard {
+
+}
+
+
+
+#Photos {
+
+}
+
+.Top9 {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+
+
+#Wall {
+
+}
+
+
+
+#Widget{
+}
+
+model-viewer {
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+
