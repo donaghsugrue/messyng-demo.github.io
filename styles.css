@@ -308,11 +308,11 @@ model-viewer {
 }
 
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: white;
 }
 
 .text {
-  color: black;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
