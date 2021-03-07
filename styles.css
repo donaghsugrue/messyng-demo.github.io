@@ -190,7 +190,7 @@ table{
   color:white;
   align:center;
   background-image: url("media/bebo_cover_photo.png");
-  object-fit: fill;
+  background-size:100%,100%;
 }
 
 
