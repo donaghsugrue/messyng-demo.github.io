@@ -42,6 +42,6 @@ function showSlides(n) {
 var imgs = document.getElementsByID('advert');
 
 for (var i = 0; i < imgs.length; i++) {
-    var num = Math.floor(Math.random() * 10 + 1);
+    var num = Math.floor(Math.random() * 3 + 1);
     imgs[i].src = 'media/ad_placeholder' + num + '.jpng';
     imgs[i].alt = imgs[i].src;}
